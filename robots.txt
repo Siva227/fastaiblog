@@ -1,1 +1,1 @@
-Sitemap: https://siva227.github.io/fastaiblog/sitemap.xml
+Sitemap: https://blog.eternalblue.co.in/sitemap.xml
