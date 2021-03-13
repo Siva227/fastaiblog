@@ -91,4 +91,4 @@ Things are looking really good in attack. On the surface, things look good in de
 This article was originally posted on the excellent [We Ain't Got No History](https://weaintgotnohistory.sbnation.com/2020/8/6/21356985/digging-into-shots)
 
 Data was taken from [Fbref.com](https://fbref.com/en/) courtesy of [Statsbomb](https://statsbomb.com/)
-![]({{ site.baseurl }}/images/SB_regular.png "Statsbomb's logo")
+![]({{ site.baseurl }}/images/SB_Regular.png "Statsbomb's logo")
