@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://blog.eternalblue.co.in/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.eternalblue.co.in/" rel="alternate" type="text/html" /><updated>2021-03-20T08:37:18-05:00</updated><id>https://blog.eternalblue.co.in/feed.xml</id><title type="html">Siva Sankar E.V.P</title><subtitle>A scratchpad containing my words on football, data science and other assorted topics.</subtitle><entry><title type="html">Digging into shots</title><link href="https://blog.eternalblue.co.in/football/2020/08/06/digging-into-shots.html" rel="alternate" type="text/html" title="Digging into shots" /><published>2020-08-06T00:00:00-05:00</published><updated>2020-08-06T00:00:00-05:00</updated><id>https://blog.eternalblue.co.in/football/2020/08/06/digging-into-shots</id><content type="html" xml:base="https://blog.eternalblue.co.in/football/2020/08/06/digging-into-shots.html">&lt;h1 id=&quot;historical-study-of-chelseas-shots&quot;&gt;Historical study of Chelsea’s shots&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://blog.eternalblue.co.in/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.eternalblue.co.in/" rel="alternate" type="text/html" /><updated>2021-03-20T09:20:49-05:00</updated><id>https://blog.eternalblue.co.in/feed.xml</id><title type="html">Siva Sankar E.V.P</title><subtitle>A scratchpad containing my words on football, data science and other assorted topics.</subtitle><entry><title type="html">Dipping into Usage rates</title><link href="https://blog.eternalblue.co.in/football/2021/03/20/dipping-into-usage-rates.html" rel="alternate" type="text/html" title="Dipping into Usage rates" /><published>2021-03-20T00:00:00-05:00</published><updated>2021-03-20T00:00:00-05:00</updated><id>https://blog.eternalblue.co.in/football/2021/03/20/dipping-into-usage-rates</id><content type="html" xml:base="https://blog.eternalblue.co.in/football/2021/03/20/dipping-into-usage-rates.html">&lt;h1 id=&quot;defining-possession-usage-rates&quot;&gt;Defining Possession Usage rates&lt;/h1&gt;
+
+&lt;h2 id=&quot;the-calculations&quot;&gt;The calculations&lt;/h2&gt;
+
+&lt;p&gt;Usage rate is a metric used in basketball analytics to understand how much of a team’s possessions are used by a player. This metric has been shown to be correlated with centrality in pass network by &lt;a href=&quot;https://www.mlssoccer.com/post/2014/08/20/central-winger-how-measure-players-influence-through-touches-or-lack-thereof&quot;&gt;Devin Pleuler&lt;/a&gt;. It allows us to measure which players on a team are central to the attack and how efficient they are with the ball.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.nbastuffer.com/analytics101/usage-rate/&quot;&gt;Usage rate&lt;/a&gt;, a.k.a., usage percentage is an estimate of the percentage of team plays used by a player while he was on the floor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have used &lt;a href=&quot;http://www.onceinabluemean.com/2015/11/city-is-kevin-de-bruynes-team-already.html&quot;&gt;Martin Hawkes-Teeter&lt;/a&gt;’s definitions of Usage rates and positive to negative ratios in this article. The formula is rather straightforward as can be seen below. Terms which have a ‘+’ sign as a superscript are considered positive actions and those with a ‘-‘ sign are considered negative.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;https://latex.codecogs.com/gif.download?%5Clarge%20%5CLarge%20Usage%20Rate%20%3D%20%5Cfrac%7B%28Shots%5E+%20+%20KeyPasses%5E+%20+%20Miscontrols%5E-%20+%20Dispossessions%5E-%20+%20Unsuccesful%20Take%20Ons%5E-%20+%20Unsuccesful%20Passes%5E-%29%7D%7B%28SquadTotals%20*%20%5Cfrac%7B90s%5C%20Played%7D%7BTotal%5C%2090s%7D%29%7D&quot; alt=&quot;\Large UsageRate=\frac{(Shots^+ + KeyPasses^+ + Miscontrols^- + Dispossessions^- + Unsuccesful Take Ons^- + Unsuccesful Passes^-)}{(SquadTotals * \frac{90s\ Played}{Total\ 90s})}&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With the context set, let’s dive into the profiles of some teams in the Premier League over the last 4 seasons.&lt;/p&gt;
+
+&lt;h2 id=&quot;chelsea&quot;&gt;Chelsea&lt;/h2&gt;
+&lt;p&gt;Chelsea’s attack was often described as completely dependent on Eden Hazard during his time here. This is particularly true under Sarri’s regime. Him and Willian are on a completely different level in terms of using possession and also being highly efficient with their actions. The median usage rate is the lowest it has been while the efficiency is pretty high. That goes to show that the majority of attaking impetus and risk taking came from Hazard and to an extent Willian. This is also borne out by the fact that Hazard had the most positive actions(183 Shots+KP)
+&lt;img src=&quot;https://i.imgur.com/w0gyqCb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;manchester-city&quot;&gt;Manchester City&lt;/h2&gt;
+&lt;p&gt;Kevin de Bruyne is amazing. When he’s fit and firing, there’s simply nobody in the PL who can touch him in terms of creativity. He is the hub of this team Pep has built. 
+&lt;img src=&quot;https://i.imgur.com/uYK9Bp4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;liverpool&quot;&gt;Liverpool&lt;/h2&gt;
+&lt;p&gt;All I can say is Salah, Mane and Firmino are exceptionally efficient players.
+&lt;img src=&quot;https://i.imgur.com/hqkI8PX.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;manchester-united&quot;&gt;Manchester United&lt;/h2&gt;
+&lt;p&gt;It’s the Bruno Fernandes show at Manchester United. He has a very high influence on United’s attack but he’s also wasteful. Nobody else really takes risks, so that works out well for them. Luke Shaw is also having a really good season.
+&lt;img src=&quot;https://i.imgur.com/b9CmURc.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="football" /><summary type="html">Defining Possession Usage rates</summary></entry><entry><title type="html">Digging into shots</title><link href="https://blog.eternalblue.co.in/football/2020/08/06/digging-into-shots.html" rel="alternate" type="text/html" title="Digging into shots" /><published>2020-08-06T00:00:00-05:00</published><updated>2020-08-06T00:00:00-05:00</updated><id>https://blog.eternalblue.co.in/football/2020/08/06/digging-into-shots</id><content type="html" xml:base="https://blog.eternalblue.co.in/football/2020/08/06/digging-into-shots.html">&lt;h1 id=&quot;historical-study-of-chelseas-shots&quot;&gt;Historical study of Chelsea’s shots&lt;/h1&gt;
 
 &lt;h2 id=&quot;premise&quot;&gt;Premise&lt;/h2&gt;
 &lt;p&gt;It has been nearly a year since Frank Lampard has taken charge of Chelsea F.C. There has been a lot of debate about how to judge his first season. Chelsea achieved their goal of finishing in the top 4 and have also reached a cup final. The fans were treated to sparkling attacking play at times. However, this was coupled with a tendency to concede goals at unfortunate times in games. Keeping that in mind, I decided to take a look at how far away the team were taking their shots from and the outcomes of these shots. To put things in a historical context, I also compared the data from the 2019-20 season to the past two seasons.&lt;/p&gt;
