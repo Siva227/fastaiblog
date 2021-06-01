@@ -67,7 +67,7 @@ Nobody on the pitch had anything less than a perfect game but a special mention 
 
 ## In conclusion
 
-Chelsea beat City and Pep Guardiolo thrice in one month, thoroughly. Tuchel and the team deserve immense credit for this. They showed up when it mattered, like the best Chelsea teams of past and delivered on the biggest occasion. 
+Chelsea beat City and Pep Guardiola thrice in one month, thoroughly. Tuchel and the team deserve immense credit for this. They showed up when it mattered, like the best Chelsea teams of past and delivered on the biggest occasion. The world is at this Chelsea squad's feet now and sky is the limit to what they can achieve. Nearly 18 years after the first magnificent Chelsea team under Roman, we have the makings of the second one. 
 
 ## Credits
 
