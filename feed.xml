@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://blog.eternalblue.co.in/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.eternalblue.co.in/" rel="alternate" type="text/html" /><updated>2021-07-13T12:21:36-05:00</updated><id>https://blog.eternalblue.co.in/feed.xml</id><title type="html">Siva Sankar E.V.P</title><subtitle>A scratchpad containing my words on football, data science and other assorted topics.</subtitle><entry><title type="html">Europe is Blue</title><link href="https://blog.eternalblue.co.in/football/2021/05/31/europe-is-blue.html" rel="alternate" type="text/html" title="Europe is Blue" /><published>2021-05-31T00:00:00-05:00</published><updated>2021-05-31T00:00:00-05:00</updated><id>https://blog.eternalblue.co.in/football/2021/05/31/europe-is-blue</id><content type="html" xml:base="https://blog.eternalblue.co.in/football/2021/05/31/europe-is-blue.html">&lt;h1 id=&quot;chelsea-fc---champions-of-europe-twice-over&quot;&gt;Chelsea F.C - Champions of Europe twice over&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://blog.eternalblue.co.in/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.eternalblue.co.in/" rel="alternate" type="text/html" /><updated>2021-09-05T06:19:53-05:00</updated><id>https://blog.eternalblue.co.in/feed.xml</id><title type="html">Siva Sankar E.V.P</title><subtitle>A scratchpad containing my words on football, data science and other assorted topics.</subtitle><entry><title type="html">Looking at Chelsea FCW’s attacking options</title><link href="https://blog.eternalblue.co.in/football/2021/09/05/chelsea-fcw-preview-forwards.html" rel="alternate" type="text/html" title="Looking at Chelsea FCW’s attacking options" /><published>2021-09-05T00:00:00-05:00</published><updated>2021-09-05T00:00:00-05:00</updated><id>https://blog.eternalblue.co.in/football/2021/09/05/chelsea-fcw-preview-forwards</id><content type="html" xml:base="https://blog.eternalblue.co.in/football/2021/09/05/chelsea-fcw-preview-forwards.html">&lt;h1 id=&quot;trophies-galore&quot;&gt;Trophies galore!!&lt;/h1&gt;
+
+&lt;p&gt;Chelsea FC Women romped to the title last season. They were scoring goals for fun(a whopping 3 goals per 90) while not conceding very many(0.45 goals againt per 90). But for the uncharacteristic blip against, they may well have finished the season unbeaten. What stands out is just how much a juggernaut Chelsea were last season. They won or reached the final stages of multiple cup competitions, most notably, the Women’s Champions League final for the first time in the club’s history. They did all this with the help of a very deep and talented squad. No area of this squad is more well stacked than that of the forwards/attacking midfielders.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cfcw_season_preview/che_women_shot_outcome_v2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chelsea managed to keep the offensive flamboyance of the season before without sacrificing any defensive solidity. Comparing per 90 metrics here as the 2019-2020 season was truncated due to COVID-19.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cfcw_season_preview/che_women_shot_for_distance_vs_outcome_v2.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/cfcw_season_preview/che_women_shot_against_distance_vs_outcome_v2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;too-many-cooks-forwards-spoil-make-the-attack-go-brrrr&quot;&gt;Too many &lt;del&gt;cooks&lt;/del&gt; forwards &lt;del&gt;spoil&lt;/del&gt; make the attack go brrrr!!&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cfcw_season_preview/chelsea_usage_rate_v3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The return of Fran Kirby and the additions of Sam Kerr and Pernille Harder changed the face of Chelsea’s atack. Ji and Cuthbert were pushed deeper into midfield roles with more of a mandate to keep possession and supply the forwards. The breakout star of 2019-20, Guro Reiten and Bethany England found themselves as options from the bench rather than as starters. Very few teams in England can boast such riches in attack.&lt;/p&gt;
+
+&lt;p&gt;I haven’t even mentioned the addition of young talents such as Niamh Charles, Jessie Fleming and now Lauren James. Charles and Fleming are starting to carve roles for themselves in the squad. It remains to be seen how and where Lauren James will fit in. Emma Hayes has a massive challenge on her hands to keep all of these wonderful attacking players happy.&lt;/p&gt;
+
+&lt;table style=&quot;width:100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;img src=&quot;/images/cfcw_season_preview/Fran-Kirby_2020-2021_shot_profile_v2.png&quot; /&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;img src=&quot;/images/cfcw_season_preview/Sam-Kerr_2020-2021_shot_profile_v2.png&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;&lt;center&gt;It's Kerrby time!!&lt;/center&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;img src=&quot;/images/cfcw_season_preview/Pernille-Harder_2020-2021_shot_profile_v2.png&quot; /&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;img src=&quot;/images/cfcw_season_preview/Bethany-England_2020-2021_shot_profile_v2.png&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;&lt;center&gt;Ably supported by Harder and England&lt;/center&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The synergy of Kirby and Kerr(a.k.a Kerrby) was a thing to behold. Kirby created and scored goals for fun and had a very very clinical season in front of goal. Kerr started a little slow but in the cruciual run-in period, she exploded and became the player Chelsea thought they were getting in January 2019. Harder had to play second fiddle to these two and curbed some of her attacking instincts in order to play a bigger role in the team’s defensive effort. However, if Emma can fully unlock Harder this season, then this trio can take things to a new height.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Hayes has a lot of juggling to do to keep all these forwards happy. The answer to this may just be to go for a very attacking version of 3-4-3 often employed by Thomas Tuchel. Reiten, Charles and James all present themselves as excellent attacking wingback options. While this move may not be suitable for the biggest of games, it will work like a charm against the rest of the league. The added benefit of being able to secure the wings, which was often a problem in the later stages of CL games last season is great as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Data was taken from &lt;a href=&quot;https://fbref.com/en/&quot;&gt;Fbref.com&lt;/a&gt; courtesy of &lt;a href=&quot;https://statsbomb.com/&quot;&gt;Statsbomb&lt;/a&gt;
+&lt;img src=&quot;/images/SB_Regular.png&quot; alt=&quot;&quot; title=&quot;Statsbomb's logo&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="football" /><summary type="html">Trophies galore!!</summary></entry><entry><title type="html">Europe is Blue</title><link href="https://blog.eternalblue.co.in/football/2021/05/31/europe-is-blue.html" rel="alternate" type="text/html" title="Europe is Blue" /><published>2021-05-31T00:00:00-05:00</published><updated>2021-05-31T00:00:00-05:00</updated><id>https://blog.eternalblue.co.in/football/2021/05/31/europe-is-blue</id><content type="html" xml:base="https://blog.eternalblue.co.in/football/2021/05/31/europe-is-blue.html">&lt;h1 id=&quot;chelsea-fc---champions-of-europe-twice-over&quot;&gt;Chelsea F.C - Champions of Europe twice over&lt;/h1&gt;
 
 &lt;p&gt;Chelsea won the Champions League for the second time in their history on 28 May, 2021. Nine years and a bit after the first time they won it in a dramatic fashion. Before we get to the numbers, I want to reflect on my memories of this incredible football club’s tempestuous relationship with this competition, which was for so long the Holy Grail, the altar at which many managerial jobs were sacrificed. It seems that this sacrifice is a necessary appeasement to the gods to clear the path to victory and destiny.&lt;/p&gt;
 
@@ -24,9 +69,7 @@
 
 &lt;p&gt;To that, Tuchel added a tactical flair which allowed him to dominate all of his opponents on the way glory in the Champions League, won in a very convincing fashion against the media’s champions-elect Manchester City and Pep Guardiola. I never thought I’d see the day when Chelsea would need no miracles, no luck to win the Champions League. Every team needs a good serving of that to win it but Tuchel did without. A remarkable achievement less than 5 months into the job.&lt;/p&gt;
 
-&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Chelsea&amp;#39;s dominance in the knockouts.... damn &lt;a href=&quot;https://t.co/ysjLwFpZtK&quot;&gt;pic.twitter.com/ysjLwFpZtK&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Caley (@MC_of_A) &lt;a href=&quot;https://twitter.com/MC_of_A/status/1398762707373985798?ref_src=twsrc%5Etfw&quot;&gt;May 29, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;p&gt;There was a 'Not Found' error fetching URL: 'https://twitter.com/MC_of_A/status/1398762707373985798?s=20'&lt;/p&gt;&lt;/div&gt;
 
 &lt;p&gt;I look forward to what he will do next with excitement, knowing full well that he may be fired come next January. I guess that’s what being a grown up is.&lt;/p&gt;
 
